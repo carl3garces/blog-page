@@ -3,7 +3,6 @@ html {
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     scroll-behavior: smooth;
-    
 }
 
 body {
@@ -12,7 +11,7 @@ body {
     right: 0%;
 }
 
-.vlog-menu .menu-item a{
+.vlog-menu .menu-item a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -28,14 +27,12 @@ body {
     object-fit: cover;
     text-align: center;
     color: black
-
 }
 
 .vlog-profile img {
     height: 250px;
     width: 250px;
     border-radius: 50%;
-
 }
 
 .vlog-profile {
@@ -43,7 +40,7 @@ body {
     height: 550px;
     top: -30%;
     transform: translate(-1%, 25%);
-  }
+}
 
 .vlog-profile h1 {
     color: red;
@@ -70,8 +67,6 @@ body {
     margin-right: auto;
     padding: 15px;
     background-color: gray;
-
-
 }
 
 .content-body3 img {
@@ -93,7 +88,6 @@ body {
 #About {
     padding: 2rem;
     font-size: 20px;
-    
 }
 
 #content1 {
@@ -118,12 +112,10 @@ body {
 
 .content-body h3 {
     text-align: center;
-
 }
 
 .content-body2 h4 {
     text-align: center;
-
 }
 
 .content-body3 h5 {
